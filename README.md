@@ -1,13 +1,11 @@
 <h1 align="center">Hi There 👋, I'm Salaheddine</h1>
 <h3 align="center">A passionate developer from Morocoo</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=salahedxd&label=Profile%20views&color=0e75b6&style=flat" alt="salahedxd" /> </p>
 
 - 👨‍💻 I’m currently studying at **1337/42 Coding School**
 
 - 📫 How to reach me **slimanisalaheddin14@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
 
